@@ -53,6 +53,7 @@ public enum ModItemTier implements Tier {
         return this.enchantmentValue;
     }
 
+    // need to fix this
     public Ingredient getRepairIngredient() {
         return this.repairIngredient.get();
     }
