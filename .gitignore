@@ -2,9 +2,24 @@
 .classpath
 .project
 build.gradle
+CREDITS.txt
+LICENSE.txt
+README.txt
+changelog.txt
+gradle.properties
+gradlew
+gradlew.bat
+runClient.launch
+runData.launch
+runGameTestServer.launch
+runServer.launch
+settings.gradle
 
 # ignore ALL files in ANY directory named temp
 .gradle/
 .settings/
 bin/
 build/
+gradle/
+run/
+
