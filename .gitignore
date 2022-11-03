@@ -1,0 +1,10 @@
+# ignore these files
+.classpath
+.project
+build.gradle
+
+# ignore ALL files in ANY directory named temp
+.gradle/
+.settings/
+bin/
+build/
