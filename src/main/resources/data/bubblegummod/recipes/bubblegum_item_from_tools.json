@@ -1,0 +1,10 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{"item": "bubblegummod:bubblegum_sword"},
+		{"item": "bubblegummod:bubblegum_axe"},
+		{"item": "bubblegummod:bubblegum_shovel"}
+	],
+	"result": {"item":"bubblegummod:bubblegum_block"}
+}

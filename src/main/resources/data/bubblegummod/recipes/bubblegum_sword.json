@@ -1,0 +1,16 @@
+{
+	"type":"minecraft:crafting_shaped",	
+	"pattern": 
+	[
+		"B",
+		"B",
+		"S"
+	],	
+	"key":
+	{
+		"B": {"item": "bubblegummod:bubblegum_item"},
+		"S": {"item": "minecraft:stick"}
+	},	
+	"result": {"item": "bubblegummod:bubblegum_sword"},
+	"count":10	
+}

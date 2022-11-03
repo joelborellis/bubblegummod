@@ -1,0 +1,14 @@
+{
+"item.bubblegummod.bubblegum_item": "Bubblegum Item",
+
+"item.bubblegummod.bubblegum_axe": "Bubblegum Axe",
+"item.bubblegummod.bubblegum_pickaxe": "Bubblegum Pickaxe",
+"item.bubblegummod.bubblegum_hoe": "Bubblegum Hoe",
+"item.bubblegummod.bubblegum_shovel": "Bubblegum Shovel",
+"item.bubblegummod.bubblegum_sword": "Bubblegum Sword",
+
+"block.bubblegummod.bubblegum_block": "Bubblegum Block",
+"block.bubblegummod.bubblegum_ore": "Bubblegum Ore",
+
+"itemGroup.bubblegumgroup": "Bubblegum Item Group"
+}
